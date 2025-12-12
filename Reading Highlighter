@@ -3,6 +3,7 @@
 // @match        https://*/*
 // @grant        none
 // @version      1.0
+// @author       Lee pal 
 // @description  Highlights keywords on pages and shows tooltip definitions; download highlighted terms; toggle highlights on/off.
 // ==/UserScript==
 
